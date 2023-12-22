@@ -15,15 +15,15 @@ $ apt install git
 
 $ apt install figlet
 
-$ git clone https://mahes1999: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@github.com/mahes1999/AMI-DDoS.git
+$ git clone https://mahes1999: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@github.com/amindia/EH-Tool1.git
 
-$ cd AMI-DDoS
+$ cd EH-Tool1
 
 $ python3 AMI-DDoS.py
 
 To Run
 
-$ cd AMI-DDoS
+$ cd EH-Tool1
 
 $ python3 AMI-DDoS.py
 
